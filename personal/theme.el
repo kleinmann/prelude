@@ -1,4 +1,4 @@
-;(load-theme 'solarized-dark t)
+(load-theme 'solarized-light t)
 (defun kleinmann-set-frame-font (&rest frame)
   (kleinmann-normal-font)
 )
